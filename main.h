@@ -35,7 +35,7 @@ int _putchar(char);
 int buffer(char);
 
 /**
- * struct _format - Typedef struct
+ * struct_format - Typedef struct
  *
  * @type: Format
  * @f: The function associated
